@@ -28,6 +28,6 @@
 ---
 ##### <b>Status GitHub:</b> #####
 
-! [Giulianno GitHub Stats] (https://github-readme-stats.vercel.app/api?username=GiuliannoMenegasse&show_icons=true&theme=dark)
+![Giulianno Menegasse's github stats](https://github-readme-stats.vercel.app/api?username=GiuliannoMenegasse&show_icons=true&theme=radical)
 
 ---
