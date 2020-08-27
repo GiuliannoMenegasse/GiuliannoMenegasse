@@ -1,11 +1,11 @@
-<h1 align = "center"> Olá Pessoal! Sou Giulianno 👋 </h1>
+<h1 align = "center"> Olá Pessoal! Sou o Giulianno 👋 </h1>
 
 <!--**GiuliannoMenegasse/GiuliannoMenegasse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 <h3 align = "center"> Estudante de Análise e Desenvolvimento de Sistemas na BandTec</h3>
 
 ---
-
+##### Sobre Mim: #####
 
 - 🌱 20 Anos de Idade e iniciando a minha carreira no ramo de Desenvolvimento de Software.  
 - 🔭 Atualmente, procuro ganhar visibilidade e me destacar no Mercado de TI.   
@@ -16,7 +16,7 @@
 - ⚡ Curiosidade: Amante de Música Clássica e Tecladista por Hobbie.       
 
 ---
-##### Linguagens e Tecnologias #####
+##### Linguagens e Tecnologias: #####
 
 <code> <img height = "20" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"> </code>
 <code> <img height = "20" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"> </code>
@@ -26,7 +26,9 @@
 <code> <img height = "20" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"> </code>
 
 ---
+##### Status GitHub: #####
 
  ! [Giulianno GitHub Stats] (https://github-readme-stats.vercel.app/api?username=GiuliannoMenegasse&show_icons=true)
  
 <img alt = "Twitter URL" src = "https://img.shields.io/twitter/url?color=Blue&label=Twitter&logo=Twitter&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2Fhome "> <img alt =" Twitter URL "src =" https://img.shields.io/twitter/url?color=blue&label=LinkedIn&logo=linkedin&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin .com% 2Fin% 2Fraissa-arantes-a49264118% 2F ">
+
