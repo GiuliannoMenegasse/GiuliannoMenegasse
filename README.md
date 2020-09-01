@@ -32,4 +32,4 @@
 
 ---
 
-<img alt="Twitter URL" src="https://img.shields.io/twitter/url?color=blue&label=LinkedIn&logo=linkedin&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fraissa-arantes-a49264118%2F">
+<img alt="Twitter URL" a href="https://img.shields.io/twitter/url?color=blue&label=LinkedIn&logo=linkedin&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fraissa-arantes-a49264118%2F" a/>
