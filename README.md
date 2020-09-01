@@ -5,8 +5,7 @@
 <h3 align = "center"> Estudante de Análise e Desenvolvimento de Sistemas na BandTec</h3>
 
 ---
-![Linkedin](https:https://www.linkedin.com/in/giulianno-menegasse-233388155/)
-![Twitch](https://img.shields.io/twitch/status/afucher?style=flat-square)
+
 ##### <b>Sobre Mim:</b> #####
 
 - 🌱 20 Anos de Idade e iniciando a minha carreira no ramo de Desenvolvimento de Software.  
