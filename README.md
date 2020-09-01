@@ -5,6 +5,8 @@
 <h3 align = "center"> Estudante de Análise e Desenvolvimento de Sistemas na BandTec</h3>
 
 ---
+![Linkedin](https:https://www.linkedin.com/in/giulianno-menegasse-233388155/)
+![Twitch](https://img.shields.io/twitch/status/afucher?style=flat-square)
 ##### <b>Sobre Mim:</b> #####
 
 - 🌱 20 Anos de Idade e iniciando a minha carreira no ramo de Desenvolvimento de Software.  
@@ -32,4 +34,3 @@
 
 ---
 
-<img alt="Twitter URL" a href="https://img.shields.io/twitter/url?color=blue&label=LinkedIn&logo=linkedin&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fraissa-arantes-a49264118%2F" a/>
