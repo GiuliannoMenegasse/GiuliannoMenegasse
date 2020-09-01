@@ -31,3 +31,5 @@
 ![Giulianno Menegasse's github stats](https://github-readme-stats.vercel.app/api?username=GiuliannoMenegasse&show_icons=true)
 
 ---
+
+<img alt="Twitter URL" src="https://img.shields.io/twitter/url?color=blue&label=LinkedIn&logo=linkedin&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fraissa-arantes-a49264118%2F">
