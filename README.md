@@ -36,4 +36,3 @@
 ![Giulianno Menegasse's github stats](https://github-readme-stats.vercel.app/api?username=GiuliannoMenegasse&show_icons=true)
 
 ---
-[<img src = "https://drive.google.com/file/d/1CKzyia3mXXhgLxZCrYIVqU2CjAeEwA34/view?usp=sharing" width = 115> <br> <sub> Giuliannno Santos </sub>] (https: // www.linkedin.com/in/giulianno-menegasse/) 
