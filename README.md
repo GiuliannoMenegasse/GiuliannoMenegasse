@@ -3,8 +3,8 @@
 
 <h2 align = "center">Systems Analyst and Developer</h2>
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?width=100px&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giulianno-menegasse/)
-[![Gmail Badge](https://img.shields.io/badge/gmail-c14438.svg?width=100px&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:menegassegiulianno@gmail.com)](mailto:menegassegiulianno@gmail.com/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giulianno-menegasse/)
+[![Gmail Badge](https://img.shields.io/badge/gmail-c14438.svg?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:menegassegiulianno@gmail.com)](mailto:menegassegiulianno@gmail.com/)
 
 ---
 
