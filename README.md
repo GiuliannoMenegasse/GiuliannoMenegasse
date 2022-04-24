@@ -10,8 +10,8 @@
 
 ### <b>About Me:</b>
 
-- 💡 I'm a 22 years old boy starting to build my career at the Banking segment;
-- 🔭 Currently, I seek to obtain expertise in the main Back-End Programming languages;
+- 💡 I'm a 22 years old boy starting to build my career on Back-End Development;
+- 🔭 Currently, I'm working as a Trainee Developer in the Investment Banking sector;
 - 💻 Experienced in Hewlett-Packard development and support of Network solutions;
 - 🎮 Passionate about Videogames and all about the Geek Universe;
 - 📫 Contact me at: menegassegiulianno@gmail.com or giulianno_mene@hotmail.com;
